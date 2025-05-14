@@ -33,4 +33,4 @@ After successful compilation, you can run the program with:
 
 ## Author
 
-Dejiang Zhou @ NAOC
+Dejiang Zhou @ NAOC (zdj649150499@163.com)
